@@ -1,1 +1,1 @@
-# Data Analysis project by Orcale Analytics
+# Pizza Sales project by Orcale Analytics
